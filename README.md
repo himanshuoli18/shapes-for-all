@@ -1,1 +1,1 @@
-# calculator-for-all
+# shapes-for-all
